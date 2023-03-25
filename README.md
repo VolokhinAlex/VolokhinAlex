@@ -20,6 +20,3 @@
 
 ## Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VolokhinAlex&theme=dark)](https://github.com/VolokhinAlex/github-readme-stats)
-
-## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VolokhinAlex&theme=dark)](https://github.com/VolokhinAlex/github-readme-stats)
