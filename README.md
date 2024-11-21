@@ -15,7 +15,6 @@
 </div> 
 
 ### About me
-- 🌱 I’m currently learning **Mobile development**
 - 📫 How to reach me: volokhinaleksey@gmail.com
 
 ## Used Languages
